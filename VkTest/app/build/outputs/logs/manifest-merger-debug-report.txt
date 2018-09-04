@@ -1,0 +1,173 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.vk:androidsdk:1.6.9] C:\Users\Public\caches\transforms-1\files-1.1\androidsdk-1.6.9.aar\9d1373c9e1067963ece1fd3d1ff8b528\AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\25b3b5495401b88f0744301eb3c487e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.rahatarmanahmed:circularprogressview:2.5.0] C:\Users\Public\caches\transforms-1\files-1.1\circularprogressview-2.5.0.aar\849b4a8b488527d25289e325844620a9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\45cf975e96b0a95b60404469a94ccb8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Public\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\3de99cb981810821767cdd1fb93b1c8a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Public\caches\transforms-1\files-1.1\picasso-2.71828.aar\649fb9dc308ea2ff3e35e9d9acfa2496\AndroidManifest.xml:2:1-14:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Public\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\cf2bc29966de5f3fc945524a2baaf918\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Public\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\a3f12592a442dd561f50fdaeee94a5a0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7b73614fd6ed505da45f74e49467fc25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\dc8b944356bc9765902afde810d7171a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Public\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\1928fe2e9f93cbba0c80b6be83e4a2b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Public\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\c9385a257e084b5241edc25055a794c3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\da6b814d2817b837d920ae72c6f37a25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7644698068de758980dd7e89db79f012\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\de505c743308b78d7d789c5b324f68e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bb91c173460e510572009453d4752291\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Public\caches\transforms-1\files-1.1\runtime-1.1.0.aar\177e4e126be7fd3d713a4e834dcc23ad\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Public\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4544169539d3d0fca2bac1c22c3996ee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Public\caches\transforms-1\files-1.1\runtime-1.1.0.aar\23d55bfc5eeb13f5a543d08687a55592\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Public\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d303728202c71536eb423f3e75ef4863\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:9:5-27:19
+MERGED from [com.vk:androidsdk:1.6.9] C:\Users\Public\caches\transforms-1\files-1.1\androidsdk-1.6.9.aar\9d1373c9e1067963ece1fd3d1ff8b528\AndroidManifest.xml:11:5-16:19
+MERGED from [com.vk:androidsdk:1.6.9] C:\Users\Public\caches\transforms-1\files-1.1\androidsdk-1.6.9.aar\9d1373c9e1067963ece1fd3d1ff8b528\AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Public\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\3de99cb981810821767cdd1fb93b1c8a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Public\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\3de99cb981810821767cdd1fb93b1c8a\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Public\caches\transforms-1\files-1.1\picasso-2.71828.aar\649fb9dc308ea2ff3e35e9d9acfa2496\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Public\caches\transforms-1\files-1.1\picasso-2.71828.aar\649fb9dc308ea2ff3e35e9d9acfa2496\AndroidManifest.xml:7:5-12:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Public\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\cf2bc29966de5f3fc945524a2baaf918\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Public\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\cf2bc29966de5f3fc945524a2baaf918\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Public\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\a3f12592a442dd561f50fdaeee94a5a0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Public\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\a3f12592a442dd561f50fdaeee94a5a0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Public\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\c9385a257e084b5241edc25055a794c3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Public\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\c9385a257e084b5241edc25055a794c3\AndroidManifest.xml:25:5-20
+	android:screenOrientation
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:10:9-45
+	android:supportsRtl
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:15:9-42
+	android:icon
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:13:9-37
+	android:allowBackup
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:11:9-38
+activity#com.example.test.application.activities.LoginActivity
+ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:18:19-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.vk.sdk.VKServiceActivity
+ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:25:9-135
+MERGED from [com.vk:androidsdk:1.6.9] C:\Users\Public\caches\transforms-1\files-1.1\androidsdk-1.6.9.aar\9d1373c9e1067963ece1fd3d1ff8b528\AndroidManifest.xml:12:9-15:53
+MERGED from [com.vk:androidsdk:1.6.9] C:\Users\Public\caches\transforms-1\files-1.1\androidsdk-1.6.9.aar\9d1373c9e1067963ece1fd3d1ff8b528\AndroidManifest.xml:12:9-15:53
+	android:label
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:25:63-94
+	android:theme
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:25:95-132
+	android:name
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:25:19-62
+activity#com.example.test.application.activities.FriendsActivity
+ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:26:9-73
+	android:name
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml:26:19-61
+uses-sdk
+INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml
+MERGED from [com.vk:androidsdk:1.6.9] C:\Users\Public\caches\transforms-1\files-1.1\androidsdk-1.6.9.aar\9d1373c9e1067963ece1fd3d1ff8b528\AndroidManifest.xml:7:5-9:41
+MERGED from [com.vk:androidsdk:1.6.9] C:\Users\Public\caches\transforms-1\files-1.1\androidsdk-1.6.9.aar\9d1373c9e1067963ece1fd3d1ff8b528\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\25b3b5495401b88f0744301eb3c487e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\25b3b5495401b88f0744301eb3c487e0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.rahatarmanahmed:circularprogressview:2.5.0] C:\Users\Public\caches\transforms-1\files-1.1\circularprogressview-2.5.0.aar\849b4a8b488527d25289e325844620a9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.rahatarmanahmed:circularprogressview:2.5.0] C:\Users\Public\caches\transforms-1\files-1.1\circularprogressview-2.5.0.aar\849b4a8b488527d25289e325844620a9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\45cf975e96b0a95b60404469a94ccb8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\45cf975e96b0a95b60404469a94ccb8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Public\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\3de99cb981810821767cdd1fb93b1c8a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Public\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\3de99cb981810821767cdd1fb93b1c8a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Public\caches\transforms-1\files-1.1\picasso-2.71828.aar\649fb9dc308ea2ff3e35e9d9acfa2496\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Public\caches\transforms-1\files-1.1\picasso-2.71828.aar\649fb9dc308ea2ff3e35e9d9acfa2496\AndroidManifest.xml:5:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Public\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\cf2bc29966de5f3fc945524a2baaf918\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Public\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\cf2bc29966de5f3fc945524a2baaf918\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Public\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\a3f12592a442dd561f50fdaeee94a5a0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Public\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\a3f12592a442dd561f50fdaeee94a5a0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7b73614fd6ed505da45f74e49467fc25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7b73614fd6ed505da45f74e49467fc25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\dc8b944356bc9765902afde810d7171a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\dc8b944356bc9765902afde810d7171a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Public\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\1928fe2e9f93cbba0c80b6be83e4a2b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Public\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\1928fe2e9f93cbba0c80b6be83e4a2b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Public\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\c9385a257e084b5241edc25055a794c3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Public\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\c9385a257e084b5241edc25055a794c3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\da6b814d2817b837d920ae72c6f37a25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\da6b814d2817b837d920ae72c6f37a25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7644698068de758980dd7e89db79f012\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7644698068de758980dd7e89db79f012\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\de505c743308b78d7d789c5b324f68e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\de505c743308b78d7d789c5b324f68e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bb91c173460e510572009453d4752291\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Public\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bb91c173460e510572009453d4752291\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Public\caches\transforms-1\files-1.1\runtime-1.1.0.aar\177e4e126be7fd3d713a4e834dcc23ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Public\caches\transforms-1\files-1.1\runtime-1.1.0.aar\177e4e126be7fd3d713a4e834dcc23ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Public\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4544169539d3d0fca2bac1c22c3996ee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Public\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4544169539d3d0fca2bac1c22c3996ee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Public\caches\transforms-1\files-1.1\runtime-1.1.0.aar\23d55bfc5eeb13f5a543d08687a55592\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Public\caches\transforms-1\files-1.1\runtime-1.1.0.aar\23d55bfc5eeb13f5a543d08687a55592\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Public\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d303728202c71536eb423f3e75ef4863\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Public\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d303728202c71536eb423f3e75ef4863\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.1.0] C:\Users\Public\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\a3f12592a442dd561f50fdaeee94a5a0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maximka\Documents\VkTest\VkTest\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Public\caches\transforms-1\files-1.1\picasso-2.71828.aar\649fb9dc308ea2ff3e35e9d9acfa2496\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Public\caches\transforms-1\files-1.1\picasso-2.71828.aar\649fb9dc308ea2ff3e35e9d9acfa2496\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Public\caches\transforms-1\files-1.1\picasso-2.71828.aar\649fb9dc308ea2ff3e35e9d9acfa2496\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Public\caches\transforms-1\files-1.1\picasso-2.71828.aar\649fb9dc308ea2ff3e35e9d9acfa2496\AndroidManifest.xml:9:13-64

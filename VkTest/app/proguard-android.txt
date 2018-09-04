@@ -1,0 +1,50 @@
+
+
+
+
+-dontskipnonpubliclibraryclasses
+-dontusemixedcaseclassnames
+
+-dontwarn android.support.**
+-dontnote com.android.vending.licensing.ILicensingService
+#-optimizationpasses 3
+#-optimizationpasses 5
+
+-printmapping out.map
+-repackageclasses ''
+-keepparameternames
+-keepparameternames
+
+-keepattributes SourceFile,LineNumberTable
+-keep public interface com.android.vending.licensing.ILicensingService
+-keepattributes Exceptions,InnerClasses,Signature,Deprecated,SourceFile,LineNumberTable,EnclosingMethod
+-optimizations !code/simplification/arithmetic,!code/simplification/cast,!field/*,!class/merging/*
+-repackageclasses 'myobfuscated'
+#-skipnonpubliclibraryclasses
+-printusage
+
+-optimizationpasses 9
+
+-mergeinterfacesaggressively
+-printmapping
+-applymapping
+-obfuscationdictionary
+-classobfuscationdictionary
+-packageobfuscationdictionary
+
+-useuniqueclassmembernames
+-keeppackagenames
+-flattenpackagehierarchy ''
+
+-keepattributes Exceptions,InnerClasses,Signature,Deprecated,SourceFile,LineNumberTable,LocalVariable*Table,*Annotation*,Synthetic,EnclosingMethod
+-keepparameternames
+
+#-adaptclassstrings
+
+-ignorewarnings
+-dontpreverify
+-overloadaggressively
+-printmapping out.map
+#-encryptassetfiles assets/**
+
+
