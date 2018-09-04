@@ -1,6 +1,6 @@
 # VkTest
 Список и поиск друзей vk с возможностью отправить сообщение.<br>
-Используемые библиотеки:<br><br>
+Используемые библиотеки:<br>
    - Recyclerview<br>
    - Circularprogressview<br>
    - CircleImageView<br>
